@@ -1,1 +1,1 @@
-# Node+Typescript+Jest template project
+# Node+Typescript+Jest+Hapi template project
